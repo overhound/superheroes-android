@@ -1,4 +1,4 @@
-package com.superheroes.android.api
+package com.superheroes.android.api.data
 
 import com.superheroes.android.api.model.Biography
 import com.superheroes.android.api.model.SuperheroResponse
